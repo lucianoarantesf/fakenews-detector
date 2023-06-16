@@ -21,11 +21,6 @@ Você também precisará baixar o conjunto de dados [train.csv](https://www.kagg
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git]
    ```
 
-2. Navegue até o diretório do projeto:
-   ```
-   cd nome-do-repositorio
-   ```
-
 
 ## Como usar
 
