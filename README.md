@@ -18,7 +18,7 @@ Você também precisará baixar o conjunto de dados [train.csv](https://www.kagg
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git]
    ```
 
 2. Navegue até o diretório do projeto:
@@ -36,7 +36,7 @@ Você também precisará baixar o conjunto de dados [train.csv](https://www.kagg
 3. No trecho de código final, você pode definir uma notícia de exemplo na variável `noticia` para verificar se ela é falsa ou verdadeira.
 
 ## Explicação do código
-```
+
 O código está dividido em várias células, cada uma realizando uma etapa específica do processo. Abaixo, você encontrará uma explicação de cada etapa:
 
 1. Importação das bibliotecas necessárias:
@@ -85,6 +85,6 @@ O código está dividido em várias células, cada uma realizando uma etapa espe
     - Uma notícia de exemplo é pré-processada e convertida em representação numérica usando o vetorizador.
     - A previsão do modelo é obtida para a notícia de exemplo.
     - Com base na probabilidade da classe falsa, é determinado se a notícia é falsa ou verdadeira.
-```
+
 # Contribua
 Sinta-se à vontade para modificar o código e experimentar diferentes técnicas de pré-processamento, algoritmos de classificação e métricas de avaliação.
